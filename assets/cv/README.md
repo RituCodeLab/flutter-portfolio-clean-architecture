@@ -1,0 +1,1 @@
+# CV asset\n\nPlace your PDF here, then register it in pubspec.yaml and update PortfolioConfig.cvAssetPath.\n
