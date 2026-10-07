@@ -580,7 +580,7 @@ class _ContactSectionState extends State<ContactSection>
       mainAxisSize: MainAxisSize.min,
       children: [
         Text(
-          'YOUR NAME',
+          'RITU NAMBATH',
           style: TextStyle(
             fontSize: 11,
             fontWeight: FontWeight.w800,

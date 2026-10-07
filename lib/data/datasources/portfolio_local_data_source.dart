@@ -442,7 +442,7 @@ class PortfolioLocalDataSourceImpl implements PortfolioLocalDataSource {
         email: 'ritunambath@gmail.com',
         phone: '+91-6359338882',
         linkedIn: 'https://www.linkedin.com/in/ritu-nambath-67123856',
-        location: 'Your Location',
+        location: 'Ahmedabad',
         focus: 'Flutter · Android · Mobile Engineering',
         workingWith: 'Remote · Product teams · Startups',
         contactItems: [

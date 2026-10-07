@@ -9,7 +9,7 @@ void main() {
 
     final data = await useCase();
 
-    expect(data.profile.name, equals('Your Name'));
+    expect(data.profile.name, equals('Ritu Nambath'));
     expect(data.experiences, isNotEmpty);
     expect(data.projects, isNotEmpty);
     expect(data.skills, isNotEmpty);
